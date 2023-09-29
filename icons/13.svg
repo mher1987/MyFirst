@@ -1,0 +1,16 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M799.971 738.993H743.589C739.171 738.993 735.589 742.575 735.589 746.993V804.711C735.589 809.129 739.171 812.711 743.589 812.711H799.971C804.389 812.711 807.971 809.129 807.971 804.711V746.993C807.971 742.575 804.389 738.993 799.971 738.993Z" fill="#898989" stroke="#232323" stroke-width="20"/>
+<path d="M735.589 756.687V368.629H808V562.658V756.687" fill="#898989" stroke="#232323" stroke-width="20" stroke-linejoin="round"/>
+<path d="M771.17 280.74L735.589 368.629H808L771.17 280.74Z" fill="#898989" stroke="#232323" stroke-width="20" stroke-linejoin="round"/>
+<path d="M694.515 857V270.834L553.996 143H192V857" fill="white" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M553.996 270.675L694.515 270.834L553.996 143V270.675Z" fill="white" stroke="#232323" stroke-width="20" stroke-linejoin="round"/>
+<path d="M352 237C352 261.305 332.305 281 308 281C283.695 281 264 261.305 264 237C264 212.695 283.695 193 308 193C332.305 193 352 212.695 352 237Z" fill="white" stroke="#920000" stroke-width="20"/>
+<path d="M392.169 212.851H456.033" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M392.169 255.523H456.033" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264.411 364.18H502.892" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264.411 430.162H630.65" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264.411 662.177H562.513" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264.411 728.954H583.791" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M264.411 794.911H588.064" stroke="#232323" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M626.65 484.49H268.411C266.202 484.49 264.411 486.281 264.411 488.49V600.775C264.411 602.984 266.201 604.775 268.411 604.775H626.65C628.86 604.775 630.65 602.984 630.65 600.775V488.49C630.65 486.281 628.86 484.49 626.65 484.49Z" fill="white" stroke="#920000" stroke-width="20"/>
+</svg>
